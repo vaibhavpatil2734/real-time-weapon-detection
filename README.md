@@ -1,7 +1,7 @@
 <h1 align="center">🔫 Weapon Detection  🔫</h1>
 
 <p align="center">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5d2IxdDRhNm5wb3ZodGd5NzBxbnVsdms0b2QyZzZqdWE0NHRsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV3dDVpZ3llYmF3eWt6MWNidHZpeDRpZWp2c2c2d2dmNGZpazdvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJyLAD1HTmkMmY7vuZ/giphy.gif)" height="150" alt="Weapon GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV3dDVpZ3llYmF3eWt6MWNidHZpeDRpZWp2c2c2d2dmNGZpazdvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJyLAD1HTmkMmY7vuZ/giphy.gif" height="150" alt="Weapon GIF">
 </p>
 
 <p align="center">
